@@ -11,10 +11,10 @@ basic part of being a programmer, welcome to the matrix ba
 name letter counter ToT
 
 [Activity4](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity4.py)
-date type analyzer
+data type analyzer
 
 [Activity5](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity5.py)
-date analyzer with mini calculator
+data analyzer with mini calculator
 
 [Activity6](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity6.py)
 a literal calcutor :>
