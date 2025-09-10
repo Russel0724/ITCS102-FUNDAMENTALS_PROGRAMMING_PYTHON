@@ -1,4 +1,4 @@
-[Activity1.1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.1.py)
+  [Activity1.1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.1.py)
 Hello World is the first ever activity given
 
 [Activity1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.txt)
@@ -36,3 +36,6 @@ Diamond output with name in the middle
 
 [TypingChallenge#2](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/codechallenge_2.py)
 breakdown denomination in PH peso
+
+[CodeChallenge#5](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/16df08f899798a24d596c3347ce11e7ccccd934d/codechallenge5%202.py)
+Manga Recommendation Center
