@@ -52,7 +52,7 @@ breakdown denomination in PH peso
 [CodeChallenge3](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/cc3.py)
 account accessibility
 
-[CodeChallenge4]()
+[CodeChallenge4](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/43d0dbecc58e5e001c1e3f6ba472d611caf7715a/cc4.py)
 number analyser odd/even
 
 [CodeChallenge#5](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/16df08f899798a24d596c3347ce11e7ccccd934d/codechallenge5%202.py)
