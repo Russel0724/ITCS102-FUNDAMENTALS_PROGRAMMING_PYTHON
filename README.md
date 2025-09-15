@@ -34,7 +34,14 @@ jeepney fare calcutor, discounted or not discounted
 [Activity11](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/36e9e2989614bee13cbe282901830a14da3a2a9c/activity11.py)
 temperatura
 
-[Activity12]()
+[Activity12](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/activity12.py)
+print hello world using for i
+
+[Activity13](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/activity13.py)
+addition using for i
+
+[Activity14](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/activity14.py)
+printing konnichiwa using for i
 
 [TypingChallenge#1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/codechallenge%231%202.py)
 Diamond output with name in the middle
@@ -42,5 +49,17 @@ Diamond output with name in the middle
 [TypingChallenge#2](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/codechallenge_2.py)
 breakdown denomination in PH peso
 
+[CodeChallenge3](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/cc3.py)
+account accessibility
+
+[CodeChallenge4]()
+number analyser odd/even
+
 [CodeChallenge#5](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/16df08f899798a24d596c3347ce11e7ccccd934d/codechallenge5%202.py)
 Manga Recommendation Center
+
+[CodeChallenge6](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/cc6.py)
+factorial
+
+[CodeChallenge7](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/ced216e60fe50a0a59044a05c1f981bbdc3d9ffc/cc7.py)
+summation of odd numbers
