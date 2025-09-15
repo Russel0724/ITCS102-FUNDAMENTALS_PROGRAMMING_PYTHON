@@ -1,4 +1,4 @@
-  [Activity1.1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.1.py)
+[Activity1.1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.1.py)
 Hello World is the first ever activity given
 
 [Activity1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity1.txt)
@@ -30,6 +30,11 @@ true or false 3.0
 
 [Activity10](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/activity10.py)
 jeepney fare calcutor, discounted or not discounted
+
+[Activity11](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/36e9e2989614bee13cbe282901830a14da3a2a9c/activity11.py)
+temperatura
+
+[Activity12]()
 
 [TypingChallenge#1](https://github.com/Russel0724/ITCS102-FUNDAMENTALS_PROGRAMMING_PYTHON/blob/cab471fd9ed5d2dbca0644eba054e8d19b328379/codechallenge%231%202.py)
 Diamond output with name in the middle
